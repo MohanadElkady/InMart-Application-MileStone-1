@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861693068127",
+    "project_id": "inmart-1409a",
+    "storage_bucket": "inmart-1409a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861693068127:android:95e30e56fc4f7c9046ecea",
+        "android_client_info": {
+          "package_name": "com.example.inmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861693068127-mmk5mg68kdbbde48c0mrk85gk0m8ktg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNxWIDUOIqIACL3JdqwlBZYi9gYsdtLp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861693068127-mmk5mg68kdbbde48c0mrk85gk0m8ktg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
